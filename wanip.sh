@@ -30,7 +30,8 @@ function main(){
   fi
 }
 
-## Main ##
+#### Main ####
 checknet
+
 
 
